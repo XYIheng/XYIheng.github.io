@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yiheng Xiong is a Ph.D. student in Computer Science at ECNU (East China Normal University), under the supervision of Pro. [Ting Su](https://tingsu.github.io/) and Pro. Geguang Pu. His research interests include but are not limited to software testing and software analysis. He obtained the B.Eng. degree at SUSTech in 2020.
+Yiheng Xiong is a Ph.D. student in Computer Science at ECNU (East China Normal University), under the supervision of Pro. [Ting Su](https://tingsu.github.io/) and Pro. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). His research interests include but are not limited to software testing and software analysis. He obtained the B.Eng. degree at SUSTech in 2020.
 
 ## Education
 ---------
 
 * **East China Normal University**: since Sep. 2020 
-  * supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. Geguang Pu
+  * supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN)
 
 * **Southern University of Science and Technology**: B.Eng. in Computer Science and Technology, Sep. 2016 - Jun. 2020
 
