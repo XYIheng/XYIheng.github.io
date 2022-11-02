@@ -10,7 +10,7 @@ redirect_from:
 Yiheng Xiong is a Ph.D. student in Computer Science at [ECNU](https://www.ecnu.edu.cn/) (East China Normal University), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). His research interests include but are not limited to software testing and software analysis. He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
 
-* [Android testing analysis](https://github.com/XYIheng/AndroidTesting)
+* [Android testing and analysis](https://github.com/XYIheng/AndroidTesting)
 
 ## Education
 ---------
