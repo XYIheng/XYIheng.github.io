@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiheng Xiong"
 title_separator          : "-"
 name                     : &name "Yiheng Xiong"
-description              : &description "Phd student aECNU"
+description              : &description "Phd student at ECNU"
 url                      : https://xyiheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XYIheng/XYIheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiheng Xiong"
   avatar           : "profile.png"
-  bio              : "The third year phd student at East China Normal University"
+  bio              : "The third-year Ph.D. student at East China Normal University"
   location         : "Shanghai China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "null"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
