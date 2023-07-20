@@ -12,9 +12,11 @@ Yiheng Xiong is a Ph.D. student in Computer Science at [ECNU](https://www.ecnu.e
 
 ## Education
 
-* **East China Normal University**: since Sep. 2020  
+* **East China Normal University**: 
+  * since Sep. 2020  
   * supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN)
-* **Southern University of Science and Technology**: B.Eng. in Computer Science and Technology, Sep. 2016 - Jun. 2020
+* **Southern University of Science and Technology**:   
+  * B.Eng. in Computer Science and Technology, Sep. 2016 - Jun. 2020
 
 ## Publications
 
