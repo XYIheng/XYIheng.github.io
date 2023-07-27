@@ -22,7 +22,7 @@ Yiheng Xiong is a Ph.D. student in Computer Science at [ECNU](https://www.ecnu.e
 
 
 * [ISSTA 2023] **An Empirical Study of Functional Bugs in Android Apps**  
-  **Yiheng Xiong**; Mengqian Xu; Ting Su; Jingling Sun; Jue Wang; He Wen; Geguang Pu; Jifeng He; Zhendong Su  
+  **Yiheng Xiong**, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su  
   [pdf](https://xyiheng.github.io//files/ISSTA_2023.pdf), [[repo](https://github.com/Android-Functional-bugs-study/home)]   
   <font color=red> ACM SIGSOFT Distinguished Paper Award </font>
 
