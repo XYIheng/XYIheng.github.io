@@ -24,7 +24,10 @@ Yiheng Xiong (熊一衡) is a Ph.D. student in Computer Science at [ECNU](https:
 
 ## Publications
 
-* [ISSTA 2023] **An Empirical Study of Functional Bugs in Android Apps***Yiheng Xiong*, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su[[pdf](https://xyiheng.github.io//files/ISSTA_2023.pdf)], [[repo](https://github.com/Android-Functional-bugs-study/home)]`<font color=red>` ACM SIGSOFT Distinguished Paper Award `</font>`
-* [OOPSLA 2021] **Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs**
-  Ting Su, Yichen Yan, Jue Wang, Jingling Sun, *Yiheng Xiong*, Geguang Pu, Ke Wang, Zhendong Su
+* [ISSTA 2023] **An Empirical Study of Functional Bugs in Android Apps**  
+  *Yiheng Xiong*, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su  
+  [[pdf](https://xyiheng.github.io//files/ISSTA_2023.pdf)], [[repo](https://github.com/Android-Functional-bugs-study/home)]<font color=red>` ACM SIGSOFT Distinguished Paper Award </font>
+
+* [OOPSLA 2021] **Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs**  
+  Ting Su, Yichen Yan, Jue Wang, Jingling Sun, *Yiheng Xiong*, Geguang Pu, Ke Wang, Zhendong Su  
   [[pdf](https://xyiheng.github.io//files/OOPSLA_2021.pdf)], [[repo](https://github.com/functional-fuzzing-android-apps/home)]
