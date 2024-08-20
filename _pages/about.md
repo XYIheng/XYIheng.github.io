@@ -23,7 +23,9 @@ Yiheng Xiong (熊一衡) is a Ph.D. student in Computer Science at [ECNU](https:
   * B.Eng. in Computer Science and Technology, Sep. 2016 - Jun. 2020
 
 ## Publications
-
+* [ASE 2024]  **General and Practical Property-based Testing for Android Apps**  
+  *Yiheng Xiong*, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su
+  
 * [ISSTA 2023] **An Empirical Study of Functional Bugs in Android Apps**  
   *Yiheng Xiong*, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su  
   [[pdf](https://xyiheng.github.io//files/ISSTA_2023.pdf)], [[repo](https://github.com/Android-Functional-bugs-study/home)]<font color=red> ACM SIGSOFT Distinguished Paper Award </font>
