@@ -14,7 +14,7 @@ Yiheng Xiong (熊一衡) is a Ph.D. student in Computer Science at [ECNU](https:
 ## Education
 
 * **ETH Zurich**:
-  * Visiting Ph.D. student, Oct. 2023 - Now
+  * Visiting Ph.D. student, Oct. 2023 - Oct. 2024
   * supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/)
 * **East China Normal University**:
   * since Sep. 2020
