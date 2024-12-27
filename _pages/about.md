@@ -34,3 +34,11 @@ Yiheng Xiong (熊一衡) is a Ph.D. student in Computer Science at [ECNU](https:
 * [OOPSLA 2021] **Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs**  
   Ting Su, Yichen Yan, Jue Wang, Jingling Sun, **Yiheng Xiong**, Geguang Pu, Ke Wang, Zhendong Su  
   [[pdf](https://xyiheng.github.io//files/OOPSLA_2021.pdf)], [[repo](https://github.com/functional-fuzzing-android-apps/home)]
+
+## Honors and Awards
+* 2024, National Scholarship (in Chinese: 国家奖学金)
+* 2024, Merit Student of East China Normal University (in Chinese: 华东师范大学优秀学生)
+* 2024, ACM SIGSOFT Distinguished Paper award, ASE (in Chinese: ASE 杰出论文奖)
+* 2023, ACM SIGSOFT Distinguished Paper award, ISSTA (in Chinese: ISSTA 杰出论文奖)
+* 2023, Merit Student of East China Normal University (in Chinese: 华东师范大学优秀学生)
+* 2023, Joint Ph.D Student Scholarship, CSC (in Chinese: 国家留学基金委博士研究生联合培养奖学金)
