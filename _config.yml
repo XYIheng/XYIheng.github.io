@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiheng Xiong"
 title_separator          : "-"
 name                     : &name "Yiheng Xiong"
-description              : &description "Phd student at ECNU"
+description              : &description "Research scientist at SMU"
 url                      : https://xyiheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XYIheng/XYIheng.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yiheng Xiong"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at East China Normal University"
-  location         : "Shanghai China"
+  bio              : "Research scientist at Singapore Management University (SMU)"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?hl=en&user=yiEKjZQAAAAJ
