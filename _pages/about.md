@@ -10,24 +10,33 @@ redirect_from:
 Yiheng Xiong (熊一衡) is a postdoctoral research scientist at Singapore Management University (SMU), advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/).
 He received his Ph.D. degree from [ECNU](https://www.ecnu.edu.cn/) (East China Normal University), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich (ETH)](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). His research interests include but are not limited to mobile app testing. He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
-* He is maintaining a paper list on [Android testing and analysis](https://github.com/XYIheng/AndroidTesting).
+* He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
 ## Education
 
 * **ETH Zurich**:
   * Visiting Ph.D. student, Oct. 2023 - Oct. 2024
-  * supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/)
+  * Supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/)
 * **East China Normal University**:
   * Sep. 2020 - Jun. 2025
-  * supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN)
+  * Supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN)
 * **Southern University of Science and Technology**:
   * B.Eng. in Computer Science and Technology, Sep. 2016 - Jun. 2020
 
 ## Publications
+
+* [Preprint arxiv] **From Exploration to Specification: LLM-Based Property Generation for Mobile App Testing**  
+  **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
+  [[pdf](https://arxiv.org/pdf/2604.13463)]
+
+
 * [FSE demo 2026] **Kea2: Practical Property-based Testing for Mobile Apps**  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su   
+  [[pdf](https://tingsu.github.io/files/fse26-Kea2.pdf)], [[repo](https://github.com/ecnusse/Kea2)]
+
 * [FSE industry 2025] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps**  
-  Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo
+  Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo  
+  [[pdf](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf)]
   
 * [ASE 2024]  **General and Practical Property-based Testing for Android Apps**   
   **Yiheng Xiong**, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su  
@@ -42,6 +51,7 @@ He received his Ph.D. degree from [ECNU](https://www.ecnu.edu.cn/) (East China N
   [[pdf](https://xyiheng.github.io//files/OOPSLA_2021.pdf)], [[repo](https://github.com/functional-fuzzing-android-apps/home)]
 
 ## Honors and Awards
+* 2025, Outstanding Graduate of Shanghai (in Chinese: 上海市优秀毕业生)
 * 2024, National Scholarship (in Chinese: 国家奖学金)
 * 2024, Merit Student of East China Normal University (in Chinese: 华东师范大学优秀学生)
 * 2024, ACM SIGSOFT Distinguished Paper award, ASE (in Chinese: ASE 杰出论文奖)
