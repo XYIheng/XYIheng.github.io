@@ -29,8 +29,8 @@ He received his Ph.D. degree from [ECNU](https://www.ecnu.edu.cn/) (East China N
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
   [[pdf](https://arxiv.org/pdf/2604.13463)]
 
-* [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**
-  Shiwen Song, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie  
+* [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
+  Shiwen Song, **Yiheng Xiong***, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie  
 
 * [FSE demo 2026] **Kea2: Practical Property-based Testing for Mobile Apps**  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su   
