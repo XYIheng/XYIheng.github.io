@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Yiheng Xiong (熊一衡) is a postdoctoral research scientist at Singapore Management University (SMU), advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/).
-He received his Ph.D. degree from [ECNU](https://www.ecnu.edu.cn/) (East China Normal University), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich (ETH)](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). His research interests include but are not limited to mobile app testing. He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
+He received his Ph.D. degree from [ECNU](https://www.ecnu.edu.cn/) (East China Normal University), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://ggpu-ecnu.github.io/). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich (ETH)](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). His research interests include but are not limited to mobile app testing. He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
 * He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
