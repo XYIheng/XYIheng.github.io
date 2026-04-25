@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiheng Xiong"
   avatar           : "images/profile.png"
-  bio              : "Postdoctoral Research Scientist"
-  location         : "Singapore"
+  bio              :
+  location         :
   employer         : "Singapore Management University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yiEKjZQAAAAJ"
