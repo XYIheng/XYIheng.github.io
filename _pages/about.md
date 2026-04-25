@@ -22,6 +22,11 @@ Yiheng Xiong (熊一衡) is a postdoctoral research scientist at [Singapore Mana
 His research interests include but are not limited to mobile app testing. He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
 
+# 📖 Educations
+- *2023.10 - 2024.10*, Visiting Ph.D. Student, **ETH Zurich**, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
+- *2020.09 - 2025.06*, Ph.D. in Software Engineering, **East China Normal University**, supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN).
+- *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
+
 # 🔥 News
 - *2026.04*: &nbsp;🎉 One paper accepted to ISSTA 2026.
 - *2026.02*: &nbsp;🎉 One paper accepted to FSE 2026 (demo track).
@@ -72,8 +77,3 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2023*, ACM SIGSOFT Distinguished Paper Award, ISSTA
 - *2023*, Merit Student of East China Normal University (华东师范大学优秀学生)
 - *2023*, Joint Ph.D Student Scholarship, CSC (国家留学基金委博士研究生联合培养奖学金)
-
-# 📖 Educations
-- *2023.10 - 2024.10*, Visiting Ph.D. Student, **ETH Zurich**, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
-- *2020.09 - 2025.06*, Ph.D. in Software Engineering, **East China Normal University**, supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN).
-- *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
