@@ -28,8 +28,8 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2025.06*: &nbsp;🎓 Received Ph.D. from East China Normal University.
 - *2025.06*: &nbsp;🎉 One paper accepted to FSE 2025 (industry track).
 - *2025.04*: &nbsp;🏆 Awarded Outstanding Graduate of Shanghai (上海市优秀毕业生).
+- *2024.12*: &nbsp;🏆 ASE 2024 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2024.10*: &nbsp;🇨🇭 Completed visiting Ph.D. at ETH Zurich, advised by Prof. Zhendong Su.
-- *2024.09*: &nbsp;🏆 ASE 2024 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2024.08*: &nbsp;🎉 One paper accepted to ASE 2024.
 - *2023.07*: &nbsp;🏆 ISSTA 2023 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2023.05*: &nbsp;🎉 One paper accepted to ISSTA 2023.
