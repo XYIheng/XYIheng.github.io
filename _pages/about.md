@@ -28,6 +28,7 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 I was invited to serve as a Program Committee member for FSE 2027.
 - *2026.04*: &nbsp;🎉 One paper accepted to ISSTA 2026.
 - *2026.02*: &nbsp;🎉 One paper accepted to FSE 2026 (demo track).
 - *2025.06*: &nbsp;🎓 Received Ph.D. from East China Normal University.
@@ -77,3 +78,8 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2023*, ACM SIGSOFT Distinguished Paper Award, ISSTA
 - *2023*, Merit Student of East China Normal University (华东师范大学优秀学生)
 - *2023*, Joint Ph.D Student Scholarship, CSC (国家留学基金委博士研究生联合培养奖学金)
+
+# 🧑‍🏫 Academic Services
+- Program Committee (PC) Member, FSE 2027
+- Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
+- Reviewer, IEEE Transactions on Software Engineering (TSE)
