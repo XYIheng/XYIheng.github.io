@@ -28,8 +28,8 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 I was invited to serve as a Program Committee member for FSE 2027.
-- *2026.04*: &nbsp;🎉 One paper accepted to ISSTA 2026.
+- *2026.05*: &nbsp;I was invited to serve as a Program Committee member for FSE 2027.
+- *2026.04*: &nbsp;🎉 Two papers accepted to ISSTA 2026.
 - *2026.02*: &nbsp;🎉 One paper accepted to FSE 2026 (demo track).
 - *2025.06*: &nbsp;🎓 Received Ph.D. from East China Normal University.
 - *2025.06*: &nbsp;🎉 One paper accepted to FSE 2025 (industry track).
@@ -47,8 +47,11 @@ His research interests include but are not limited to mobile app testing. He is 
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie  
   [[pdf]](https://arxiv.org/pdf/2604.13463)
 
+- [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**  
+  **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su
+
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
-  Shiwen Song, **Yiheng Xiong\***, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie
+  Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps**  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su  
