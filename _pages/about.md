@@ -43,9 +43,12 @@ His research interests include but are not limited to mobile app testing. He is 
 
 # 📝 Publications
 
-- [Preprint, arXiv] **From Exploration to Specification: LLM-Based Property Generation for Mobile App Testing**  
-  **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie  
-  [[pdf]](https://arxiv.org/pdf/2604.13463)
+- [Preprint, arXiv] **From Signals to Behaviors: Evidence-Based Android Malware Detection**  
+  Shiwen Song, **Yiheng Xiong**, Sen Chen, Xiaofei Xie  
+  [[pdf]](https://arxiv.org/pdf/2607.23272)
+
+- [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
+  **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
 
 - [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**  
   **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su
