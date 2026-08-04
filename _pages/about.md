@@ -28,6 +28,7 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 One paper accepted to ASE 2026.
 - *2026.05*: &nbsp;I was invited to serve as a Program Committee member for FSE 2027.
 - *2026.04*: &nbsp;🎉 Two papers accepted to ISSTA 2026.
 - *2026.02*: &nbsp;🎉 One paper accepted to FSE 2026 (demo track).
