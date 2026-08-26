@@ -52,6 +52,10 @@ His research interests include but are not limited to mobile app testing. He is 
   Mengqian Xu, **Yiheng Xiong**, Le Chang, Ting Su, Chengcheng Wan, Weikai Miao  
   [[pdf]](https://arxiv.org/pdf/2604.06763)
 
+- [Preprint, arXiv] **Enhancing Automated Program Repair via Faulty Token Localization and Quality-Aware Patch Refinement**  
+  Jiaolong Kong, Xiaofei Xie, **Yiheng Xiong**, Yuekun Wang, Jian Wang  
+  [[pdf]](https://arxiv.org/pdf/2511.18001)
+
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
 
