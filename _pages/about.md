@@ -48,6 +48,10 @@ His research interests include but are not limited to mobile app testing. He is 
   Shiwen Song, **Yiheng Xiong**, Sen Chen, Xiaofei Xie  
   [[pdf]](https://arxiv.org/pdf/2607.23272)
 
+- [Preprint, arXiv] **Improving Random Testing via LLM-powered UI Tarpit Escaping for Mobile Apps**  
+  Mengqian Xu, **Yiheng Xiong**, Le Chang, Ting Su, Chengcheng Wan, Weikai Miao  
+  [[pdf]](https://arxiv.org/pdf/2604.06763)
+
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
 
