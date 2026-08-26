@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yiheng Xiong (熊一衡) is a postdoctoral research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), advised by Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/). He received his Ph.D. degree from [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
+Yiheng Xiong (熊一衡) is a postdoctoral research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/). He received his Ph.D. degree from [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
 His research interests include but are not limited to mobile app testing. He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
@@ -25,7 +25,7 @@ His research interests include but are not limited to mobile app testing. He is 
 # 📖 Educations
 - *2023.10 - 2024.10*, Visiting Ph.D. Student, **ETH Zurich**, supervised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/).
 - *2020.09 - 2025.06*, Ph.D. in Software Engineering, **East China Normal University**, supervised by Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN).
-- *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**.
+- *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**, supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉 One paper accepted to ASE 2026.
@@ -90,3 +90,4 @@ His research interests include but are not limited to mobile app testing. He is 
 - Program Committee (PC) Member, FSE 2027
 - Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Reviewer, IEEE Transactions on Software Engineering (TSE)
+- Reviewer, Empirical Software Engineering
