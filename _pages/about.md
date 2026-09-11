@@ -57,32 +57,40 @@ His research interests include but are not limited to mobile app testing. He is 
   [[pdf]](https://arxiv.org/pdf/2511.18001)
 
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
-  **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie
+  **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie<br>
+  ACM/IEEE International Conference on Automated Software Engineering
 
 - [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**  
-  **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su
+  **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su<br>
+  ACM SIGSOFT International Symposium on Software Testing and Analysis
 
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
-  Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie
+  Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
+  ACM SIGSOFT International Symposium on Software Testing and Analysis
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps**  
-  Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su  
+  Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
+  ACM International Conference on the Foundations of Software Engineering<br>
   [[pdf]](https://tingsu.github.io/files/fse26-Kea2.pdf) [[repo]](https://github.com/ecnusse/Kea2)
 
 - [FSE 2025 Industry] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps**  
-  Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo  
+  Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo<br>
+  ACM International Conference on the Foundations of Software Engineering<br>
   [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf)
 
 - [ASE 2024] **General and Practical Property-based Testing for Android Apps**  
-  **Yiheng Xiong**, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su  
+  **Yiheng Xiong**, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su<br>
+  ACM/IEEE International Conference on Automated Software Engineering<br>
   [[pdf]](https://xyiheng.github.io//files/Property_Based_Testing_for_Android_Apps.pdf) [[repo]](https://github.com/ecnusse/Kea) <span style="color:red">**ACM SIGSOFT Distinguished Paper Award**</span>
 
 - [ISSTA 2023] **An Empirical Study of Functional Bugs in Android Apps**  
-  **Yiheng Xiong**, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su  
+  **Yiheng Xiong**, Mengqian Xu, Ting Su, Jingling Sun, Jue Wang, He Wen, Geguang Pu, Jifeng He, Zhendong Su<br>
+  ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
   [[pdf]](https://xyiheng.github.io//files/ISSTA_2023.pdf) [[repo]](https://github.com/Android-Functional-bugs-study/home) <span style="color:red">**ACM SIGSOFT Distinguished Paper Award**</span>
 
 - [OOPSLA 2021] **Fully Automated Functional Fuzzing of Android Apps for Detecting Non-Crashing Logic Bugs**  
-  Ting Su, Yichen Yan, Jue Wang, Jingling Sun, **Yiheng Xiong**, Geguang Pu, Ke Wang, Zhendong Su  
+  Ting Su, Yichen Yan, Jue Wang, Jingling Sun, **Yiheng Xiong**, Geguang Pu, Ke Wang, Zhendong Su<br>
+  ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications<br>
   [[pdf]](https://xyiheng.github.io//files/OOPSLA_2021.pdf) [[repo]](https://github.com/functional-fuzzing-android-apps/home)
 
 # 🎖 Honors and Awards
