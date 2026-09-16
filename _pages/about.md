@@ -28,6 +28,7 @@ His research interests include but are not limited to mobile app testing. He is 
 - *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**, supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 # 🔥 News
+- *2026.09*: &nbsp;🏆 ISSTA 2026 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2026.07*: &nbsp;🎉 One paper accepted to ASE 2026.
 - *2026.05*: &nbsp;I was invited to serve as a Program Committee member for FSE 2027.
 - *2026.04*: &nbsp;🎉 Two papers accepted to ISSTA 2026.
@@ -66,7 +67,7 @@ His research interests include but are not limited to mobile app testing. He is 
 
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
   Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis
+  ACM SIGSOFT International Symposium on Software Testing and Analysis <span style="color:red">**ACM SIGSOFT Distinguished Paper Award**</span>
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps**  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
@@ -94,6 +95,7 @@ His research interests include but are not limited to mobile app testing. He is 
   [[pdf]](https://xyiheng.github.io//files/OOPSLA_2021.pdf) [[repo]](https://github.com/functional-fuzzing-android-apps/home)
 
 # 🎖 Honors and Awards
+- *2026*, ACM SIGSOFT Distinguished Paper Award, ISSTA
 - *2025*, Outstanding Graduate of Shanghai (上海市优秀毕业生)
 - *2024*, National Scholarship (国家奖学金)
 - *2024*, Merit Student of East China Normal University (华东师范大学优秀学生)
