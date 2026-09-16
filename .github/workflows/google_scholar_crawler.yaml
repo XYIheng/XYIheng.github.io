@@ -1,9 +1,10 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+# Disabled: Google Scholar blocks scraping from GitHub Actions IPs, so this
+# never succeeded and only sent daily failure emails. Left as manual-only.
+# To re-enable automatic runs, restore the `page_build` and `schedule` triggers.
+on:
+  workflow_dispatch:
 
 jobs:
   build:
