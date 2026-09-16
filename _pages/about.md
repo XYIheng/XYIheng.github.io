@@ -67,7 +67,8 @@ His research interests include but are not limited to mobile app testing. He is 
 
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
   Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis <span style="color:red">**ACM SIGSOFT Distinguished Paper Award**</span>
+  ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
+  <span style="color:red">**ACM SIGSOFT Distinguished Paper Award**</span>
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps**  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
