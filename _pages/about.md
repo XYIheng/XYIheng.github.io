@@ -59,7 +59,8 @@ His research interests include but are not limited to mobile app testing. He is 
 
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie<br>
-  ACM/IEEE International Conference on Automated Software Engineering
+  ACM/IEEE International Conference on Automated Software Engineering<br>
+  [[pdf]](https://xyiheng.github.io//files/PropertyGen_ASE_26_Final_version.pdf)
 
 - [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps**  
   **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su<br>
