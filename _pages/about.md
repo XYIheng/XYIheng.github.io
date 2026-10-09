@@ -70,12 +70,12 @@ His research interests include but are not limited to mobile app testing. He is 
   Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
   ACM SIGSOFT International Symposium on Software Testing and Analysis
 
-- [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps**  
+- [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
   ACM International Conference on the Foundations of Software Engineering<br>
   [[pdf]](https://tingsu.github.io/files/fse26-Kea2.pdf) [[repo]](https://github.com/ecnusse/Kea2)
 
-- [FSE 2025 Industry] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps**  
+- [FSE 2025 Industry] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo<br>
   ACM International Conference on the Foundations of Software Engineering<br>
   [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf)
