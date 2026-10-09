@@ -1,0 +1,23 @@
+// Publication ranking badges (CCF / CORE / award), two-tone like a shields.io label
+.bdg {
+  display: inline-block;
+  margin-left: 4px;
+  font-size: 0.62em;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-radius: 3px;
+  overflow: hidden;
+
+  span {
+    display: inline-block;
+    padding: 4px 6px;
+    color: #fff;
+  }
+  .l { background: #4a4a4a; }
+  .r { background: #d9534f; }          // A / A*
+  .c { background: #6c9ac7; }          // lower tiers
+  .g { background: #f2d03b; color: #333; }  // award
+  .o { background: #e08a3c; }          // preprint
+}
