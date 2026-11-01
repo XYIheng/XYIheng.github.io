@@ -21,3 +21,14 @@
   .g { background: #f2d03b; color: #333; }  // award
   .o { background: #e08a3c; }          // preprint
 }
+
+// Collapsible older news
+.news-more {
+  margin-top: -0.5em;
+
+  summary {
+    cursor: pointer;
+    font-size: 0.9em;
+    color: #52adc8;
+  }
+}

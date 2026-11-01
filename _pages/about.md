@@ -19,7 +19,7 @@ redirect_from:
 
 Yiheng Xiong (熊一衡) is a postdoctoral research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/). He received his Ph.D. degree from [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
-His research interests lie in software engineering, with a focus on mobile app testing, and malware detection. His work has received three ACM SIGSOFT Distinguished Paper Awards (ISSTA 2023, ASE 2024, and ISSTA 2026). He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
+His research interests lie in software engineering, with a focus on mobile app testing and malware detection. His work has received three ACM SIGSOFT Distinguished Paper Awards (ISSTA 2023, ASE 2024, and ISSTA 2026). He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
 
 # 📖 Educations
@@ -28,11 +28,15 @@ His research interests lie in software engineering, with a focus on mobile app t
 - *2016.09 - 2020.06*, B.Eng. in Computer Science and Technology, **Southern University of Science and Technology (SUSTech)**, supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 # 🔥 News
-- *2026.09*: &nbsp;🏆 ISSTA 2026 paper received ACM SIGSOFT Distinguished Paper Award.
+- *2026.09*: &nbsp;🏆 ISSTA 2026 paper received ACM SIGSOFT Distinguished Paper Award (**19 of 888 submissions, top 2.1%**).
 - *2026.07*: &nbsp;🎉 One paper accepted to ASE 2026.
 - *2026.05*: &nbsp;I was invited to serve as a Program Committee member for FSE 2027.
 - *2026.04*: &nbsp;🎉 Two papers accepted to ISSTA 2026.
 - *2026.02*: &nbsp;🎉 One paper accepted to FSE 2026 (demo track).
+
+<details class="news-more" markdown="1">
+<summary>Show earlier news</summary>
+
 - *2025.06*: &nbsp;🎓 Received Ph.D. from East China Normal University.
 - *2025.06*: &nbsp;🎉 One paper accepted to FSE 2025 (industry track).
 - *2025.04*: &nbsp;🏆 Awarded Outstanding Graduate of Shanghai (上海市优秀毕业生).
@@ -42,6 +46,8 @@ His research interests lie in software engineering, with a focus on mobile app t
 - *2023.07*: &nbsp;🏆 ISSTA 2023 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2023.05*: &nbsp;🎉 One paper accepted to ISSTA 2023.
 - *2021.07*: &nbsp;🎉 One paper accepted to OOPSLA 2021.
+
+</details>
 
 # 📝 Publications
 
@@ -60,18 +66,18 @@ His research interests lie in software engineering, with a focus on mobile app t
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie<br>
   ACM/IEEE International Conference on Automated Software Engineering<br>
-  [[pdf]](https://xyiheng.github.io//files/PropertyGen_ASE_26_Final_version.pdf) [[repo]](https://tingsu.github.io)
+  [[pdf]](https://xyiheng.github.io//files/PropertyGen_ASE_26_Final_version.pdf) [[repo]](https://xyiheng.github.io)
 
 - [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su<br>
   ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
-  [[pdf]](https://dl.acm.org/doi/10.1145/3832108) [[repo]](https://tingsu.github.io)
+  [[pdf]](https://dl.acm.org/doi/10.1145/3832108) [[repo]](https://xyiheng.github.io)
 
 
-- [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
+- [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award · Top 2.1%</span></span>  
   Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
   ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
-  [[pdf]](https://dl.acm.org/doi/10.1145/3832300) [[repo]](https://tingsu.github.io)
+  [[pdf]](https://dl.acm.org/doi/10.1145/3832300) [[repo]](https://xyiheng.github.io)
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
@@ -81,7 +87,7 @@ His research interests lie in software engineering, with a focus on mobile app t
 - [FSE 2025 Industry] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo<br>
   ACM International Conference on the Foundations of Software Engineering<br>
-  [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf) [[repo]](https://tingsu.github.io)
+  [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf) [[repo]](https://xyiheng.github.io)
 
 - [ASE 2024] **General and Practical Property-based Testing for Android Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   **Yiheng Xiong**, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su<br>
@@ -99,7 +105,7 @@ His research interests lie in software engineering, with a focus on mobile app t
   [[pdf]](https://xyiheng.github.io//files/OOPSLA_2021.pdf) [[repo]](https://github.com/functional-fuzzing-android-apps/home)
 
 # 🎖 Honors and Awards
-- *2026*, ACM SIGSOFT Distinguished Paper Award, ISSTA
+- *2026*, ACM SIGSOFT Distinguished Paper Award, ISSTA (**19 of 888 submissions, top 2.1%**)
 - *2025*, Outstanding Graduate of Shanghai (上海市优秀毕业生)
 - *2024*, National Scholarship (国家奖学金)
 - *2024*, Merit Student of East China Normal University (华东师范大学优秀学生)
