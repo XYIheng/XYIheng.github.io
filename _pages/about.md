@@ -19,7 +19,7 @@ redirect_from:
 
 Yiheng Xiong (熊一衡) is a postdoctoral research scientist at [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/). He received his Ph.D. degree from [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of Prof. [Ting Su](https://tingsu.github.io/) and Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN). He was fortunate enough to visit the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), advised by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). He obtained the B.Eng. degree at [SUSTech](https://www.sustech.edu.cn/) in 2020.
 
-His research interests include but are not limited to mobile app testing. His work has received three ACM SIGSOFT Distinguished Paper Awards (ISSTA 2023, ASE 2024, and ISSTA 2026). He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
+His research interests lie in software engineering, with a focus on mobile app testing, and malware detection. His work has received three ACM SIGSOFT Distinguished Paper Awards (ISSTA 2023, ASE 2024, and ISSTA 2026). He is maintaining a paper list on [Android testing, analysis, and security](https://github.com/XYIheng/AndroidTesting).
 
 
 # 📖 Educations
@@ -60,15 +60,18 @@ His research interests include but are not limited to mobile app testing. His wo
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Yiheng Xiong**, Shiwen Song, Bo Ma, Ting Su, Xiaofei Xie<br>
   ACM/IEEE International Conference on Automated Software Engineering<br>
-  [[pdf]](https://xyiheng.github.io//files/PropertyGen_ASE_26_Final_version.pdf)
+  [[pdf]](https://xyiheng.github.io//files/PropertyGen_ASE_26_Final_version.pdf) [[repo]](https://tingsu.github.io)
 
 - [ISSTA 2026] **From Natural Language to Executable Properties for Property-based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Yiheng Xiong**, Ting Su, Jingling Sun, Jue Wang, Qin Li, Geguang Pu, Zhendong Su<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis
+  ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
+  [[pdf]](https://dl.acm.org/doi/10.1145/3832108) [[repo]](https://tingsu.github.io)
+
 
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   Shiwen Song, **Yiheng Xiong**<sup>✉</sup>, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis
+  ACM SIGSOFT International Symposium on Software Testing and Analysis<br>
+  [[pdf]](https://dl.acm.org/doi/10.1145/3832300) [[repo]](https://tingsu.github.io)
 
 - [FSE 2026 Demo] **Kea2: Practical Property-based Testing for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Xixian Liang, Cheng Peng, Bo Ma, Xiangchen Shen, **Yiheng Xiong**, Ting Su<br>
@@ -78,7 +81,7 @@ His research interests include but are not limited to mobile app testing. His wo
 - [FSE 2025 Industry] **ProphetAgent: Automatically Synthesizing GUI Tests from Test Cases in Natural Language for Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   Qichao Kong, Zhengwei Lv, **Yiheng Xiong**, Jingling Sun, Ting Su, Dingchun Wang, Letao Li, Xu Yang, Gang Huo<br>
   ACM International Conference on the Foundations of Software Engineering<br>
-  [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf)
+  [[pdf]](https://tingsu.github.io/files/fse2025-ProphetAgent.pdf) [[repo]](https://tingsu.github.io)
 
 - [ASE 2024] **General and Practical Property-based Testing for Android Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   **Yiheng Xiong**, Ting Su, Jue Wang, Jingling Sun, Geguang Pu, Zhendong Su<br>
